@@ -5,22 +5,25 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faMugHot } from '@fortawesome/free-solid-svg-icons'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 
+
+
+
 const Sidebar = () => (
 
     <div className='nav-bar'>
-        <Link className='logo' to='/'>
+        <Link className='logo' to='/portfolio'>
             <img src={Logo} alt="logo" />
         </Link>
         <nav>
-            <NavLink exact="true" activeclassname="active" to="/">
+            <NavLink exact="true" activeclassname="active" to="/portfolio/">
                 <FontAwesomeIcon icon={faHome} color="#FFFFFF" />
             </NavLink>
 
-            <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
+            <NavLink exact="true" activeclassname="active" className="about-link" to="/portfolio/about">
                 <FontAwesomeIcon icon={faUser} color="#FFFFFF" />
             </NavLink>
 
-            <NavLink exact="true" activeclassname="active" className="projects-link" to="/projects">
+            <NavLink exact="true" activeclassname="active" className="projects-link" to="/portfolio/projects">
                 <FontAwesomeIcon icon={faMugHot} color="#FFFFFF" />
             </NavLink>
         </nav>
