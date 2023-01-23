@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zeirnox/portfolio/static/css/main.9412584e.css",
+    "main.js": "/zeirnox/portfolio/static/js/main.0215c71d.js",
+    "static/media/mondstadt.png": "/zeirnox/portfolio/static/media/mondstadt.5e89e9b1cb417fe2a1c4.png",
+    "static/media/solarSystem.png": "/zeirnox/portfolio/static/media/solarSystem.d1309ace4d95ec787f1c.png",
+    "static/media/J1.png": "/zeirnox/portfolio/static/media/J1.1b7f9b7ba2b5eaa9207a.png",
+    "index.html": "/zeirnox/portfolio/index.html",
+    "main.9412584e.css.map": "/zeirnox/portfolio/static/css/main.9412584e.css.map",
+    "main.0215c71d.js.map": "/zeirnox/portfolio/static/js/main.0215c71d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9412584e.css",
+    "static/js/main.0215c71d.js"
+  ]
+}
