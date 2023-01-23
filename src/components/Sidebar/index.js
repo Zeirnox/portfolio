@@ -15,15 +15,15 @@ const Sidebar = () => (
             <img src={Logo} alt="logo" />
         </Link>
         <nav>
-            <NavLink exact="true" activeclassname="active" to="/portfolio/">
+            <NavLink exact="true" activeclassname="active" to="/">
                 <FontAwesomeIcon icon={faHome} color="#FFFFFF" />
             </NavLink>
 
-            <NavLink exact="true" activeclassname="active" className="about-link" to="/portfolio/about">
+            <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
                 <FontAwesomeIcon icon={faUser} color="#FFFFFF" />
             </NavLink>
 
-            <NavLink exact="true" activeclassname="active" className="projects-link" to="/portfolio/projects">
+            <NavLink exact="true" activeclassname="active" className="projects-link" to="/projects">
                 <FontAwesomeIcon icon={faMugHot} color="#FFFFFF" />
             </NavLink>
         </nav>
