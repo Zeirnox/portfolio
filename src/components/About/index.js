@@ -17,14 +17,10 @@ const About = () => {
                         idx={5}
                     />
                 </h1>
-                <h2>    Hi, I'm James Liu. I am currently a computer technician and I build workstations, test bench, and servers for fortune 500 companies. 
-                    I love building websites because I love the feeling of learning new technology and ideas to finally solve a problem I've been stuck on.
-                    I pride myself on being able to pick up new things and learn new things quickly.
+                <h2>    Irure excepteur occaecat nostrud laborum officia eiusmod pariatur minim in velit Lorem sit amet id. Elit laborum dolore commodo labore enim proident aliqua. Enim est laboris Lorem ad dolore laborum voluptate occaecat esse nisi magna.
                 </h2>
                 <h2>
-                        I have experience in using HTML, CSS, JavaScript, React and Three js. I have attended IVC pursuing computer science as well as learning on my own using 
-                    online resources to further my knowledge. I'm currently learning to use React Three Fiber to create and display animated 3D objects in React. 
-                    I would love the opportunity to learn and work on projects in a professional setting.
+                        Laboris elit voluptate do aliqua proident laborum minim veniam. Reprehenderit consectetur dolor exercitation mollit officia incididunt non minim esse aute reprehenderit nostrud do sunt. Magna eiusmod aliqua id nulla dolore proident eiusmod eu. Ut nisi cupidatat officia reprehenderit ex esse aliqua commodo.
                 </h2>
             </div>
         </div>

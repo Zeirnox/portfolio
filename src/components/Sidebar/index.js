@@ -11,7 +11,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 const Sidebar = () => (
 
     <div className='nav-bar'>
-        <Link className='logo' to='/portfolio'>
+        <Link className='logo' to='/'>
             <img src={Logo} alt="logo" />
         </Link>
         <nav>
