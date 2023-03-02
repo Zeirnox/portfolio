@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.92edfb2d.css",
-    "main.js": "/portfolio/static/js/main.f991a8b1.js",
+    "main.css": "/portfolio/static/css/main.14254977.css",
+    "main.js": "/portfolio/static/js/main.e85877d3.js",
     "static/media/mondstadt.png": "/portfolio/static/media/mondstadt.5e89e9b1cb417fe2a1c4.png",
     "static/media/solarSystem.png": "/portfolio/static/media/solarSystem.d1309ace4d95ec787f1c.png",
     "static/media/J1.png": "/portfolio/static/media/J1.1b7f9b7ba2b5eaa9207a.png",
     "index.html": "/portfolio/index.html",
-    "main.92edfb2d.css.map": "/portfolio/static/css/main.92edfb2d.css.map",
-    "main.f991a8b1.js.map": "/portfolio/static/js/main.f991a8b1.js.map"
+    "main.14254977.css.map": "/portfolio/static/css/main.14254977.css.map",
+    "main.e85877d3.js.map": "/portfolio/static/js/main.e85877d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.92edfb2d.css",
-    "static/js/main.f991a8b1.js"
+    "static/css/main.14254977.css",
+    "static/js/main.e85877d3.js"
   ]
 }
