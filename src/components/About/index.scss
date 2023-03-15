@@ -5,3 +5,13 @@ h2 {
     font-family: 'Montserrat';
     font-weight: 400;
 }
+
+@media screen and (max-width: 60rem) {
+    .about-page{
+        .text-zone{
+            top: 60%;
+            width: 80%;
+            overflow: scroll;
+        }
+    }
+}
