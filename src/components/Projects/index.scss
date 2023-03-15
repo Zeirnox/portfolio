@@ -9,7 +9,7 @@
     }
 
     .text-zone {
-        width: 85%;
+        width: 80%;
         padding-right: 1rem;
     }
 
@@ -52,4 +52,20 @@
         font-style: none;
     }
 
+}
+
+@media screen and (max-width: 60rem){
+    .projects-page{
+        .text-zone{
+            top: 55%;
+            bottom: -40%;
+            overflow: scroll;
+        }
+
+        .project-showcase {
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+        }
+    }
+    
 }

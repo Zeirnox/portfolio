@@ -36,3 +36,22 @@
         opacity: 0.6;
     }
 }
+
+@media screen and (max-width: 60rem) {
+    .home-page{
+        .text-zone {
+            width: 85%;
+            left: 10%;
+            right: 5%;
+        }
+
+        h1 {
+            font-size: 30px;
+        }
+
+        h2 {
+            font-size: 15px;
+        }
+    }
+    
+}
