@@ -1,4 +1,4 @@
-h2 {
+p {
     animation: fadeIn 2s 1s linear both;
     font-size: 18px;
     letter-spacing: 1px;
@@ -12,6 +12,8 @@ h2 {
             top: 60%;
             width: 80%;
             overflow: scroll;
+            padding-bottom: 120px;
+            padding-right: 20px;
         }
     }
 }

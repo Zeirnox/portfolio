@@ -17,11 +17,21 @@ const About = () => {
                         idx={5}
                     />
                 </h1>
-                <h2>   Ad consectetur aliqua mollit ipsum duis tempor. Nisi excepteur incididunt magna fugiat id occaecat nisi aute dolore nostrud amet. Duis duis sint consectetur ipsum pariatur laborum exercitation dolor adipisicing deserunt. Ut in elit aliqua ad eiusmod exercitation sint excepteur sint. Laborum voluptate occaecat cillum ullamco exercitation aliquip tempor Lorem.
-                </h2>
-                <h2>
-                        Deserunt Lorem ut ut excepteur. Lorem sint commodo Lorem ut ullamco incididunt. Esse mollit esse veniam non ad proident ex deserunt ullamco laborum consequat consequat dolor. Voluptate excepteur nostrud deserunt est sunt elit eiusmod id ex labore velit tempor cupidatat ea. Irure qui eiusmod aliquip et ut anim incididunt esse dolor exercitation qui. Consectetur eiusmod eu aliquip sit quis. Mollit ipsum aliqua mollit nulla cillum dolor ipsum anim in nulla esse exercitation reprehenderit Lorem.
-                </h2>
+                <p>
+                Hi, I'm James Liu and I am a web developer. I have always been interested in technology since 
+                I was young and I have been learning new things ever since. I love to explore and find new ways 
+                to solve a problem or to improve workflow. 
+                </p>
+                <p>
+                I have prior experience as a computer technician. In that role, I built workstations, test benches, 
+                and servers for large-scale projects of over 100 systems per week. This experience helped me develop 
+                strong technical skills and attention to detail, which have proven invaluable in my work as a web developer. 
+                </p>
+                <p>
+                I'm proficient in several programming languages, including HTML, CSS, JavaScript, and Java, and I'm constantly 
+                expanding my skillset and exploring new technologies. I have experience working with popular web development 
+                frameworks like React and ThreeJS.
+                </p>
             </div>
         </div>
     </>
